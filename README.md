@@ -61,11 +61,11 @@ The general gameplay idea of Anomaly is that the RogueLike represents a Dream th
 
 Roguelike Layout:
 
-Meter anexo 1 aqui
+![Anexo 1](https://user-images.githubusercontent.com/59929476/176985972-1fd8e6df-ef84-46a9-9ef6-ebaeeed72c45.png)
 
 Text Adventure Layout:
 
-Meter anexo 2 aqui 
+![Anexo 2](https://user-images.githubusercontent.com/59929476/176985978-1c071b59-fe30-4a32-8e20-f9c005420046.png)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 How to Play:
@@ -487,19 +487,19 @@ The advantages of this algorithm are:
 
 But despite the advantages there is a big disadvantage in the maps, there is only 45% that the map will be completely open (that is, the entire map is accessible to the player) to solve this problem, I added a system where it allows the player to excavate walls.
 
-Meter Anexo 3
+![Anexo 3](https://user-images.githubusercontent.com/59929476/176985990-f829d79a-ec50-4502-9a5b-7efd9892a8c7.PNG)
 
 An Example Of a Possible Map:
 
-Meter Anexo 4
+![Anexo 4](https://user-images.githubusercontent.com/59929476/176985993-4a0eccb0-095a-40c5-85d2-a4b95e0df328.PNG)
 
 A* (A-STAR):
 
 A* is a search algorithm, it looks for an object (or “node”) in a specific graph. The algorithm makes a decision tree of all possible paths to the object, and chooses which path is the shortest.
 
-An Example Of A A* Graph
+An Example Of a A* Graph
 
-Meter Anexo 5
+![Anexo 6](https://user-images.githubusercontent.com/59929476/176986115-09e8c8ad-0b90-4bf6-afcb-d3954782189a.png)
 
 BRESEHANS LINE:
 
@@ -509,7 +509,7 @@ Bresenhams line has a great advantage of being able to peek through small “cra
 
 An Example Of A Bresehans Line Graph
 
-Meter Anexo 6
+![Anexo 5](https://user-images.githubusercontent.com/59929476/176986016-5c724c57-9640-4bd6-8808-7ee9e09b6d89.PNG)
 
  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 PROBLEMS AND BAD ORGANIZATION:
