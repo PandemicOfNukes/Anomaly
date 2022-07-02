@@ -636,6 +636,8 @@ If you took a look at the code you might be wondering why I have so many screens
 
 Well this was actually a bad idea when I look at it now. The original intent was (ironically enough) that the code would be easier to read. I thought that if I put everything in modules I could make the code easier to understand. Well, in the end it was a mess and because this was my final project I didn't have the time to fix it up before. The same thing applies to the website. Some people say its messy, other people say its not messy, but in my opinion its very messy. Lessons were learned and I continue to learn.
 
+Interesting thing about my project, some of the sounds were made by using a Walkman.
+
  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 SPECIAL THANKS:
 
