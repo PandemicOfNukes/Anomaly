@@ -138,27 +138,36 @@ After the menu appears, simply press the Key that corresponds to the item you wa
 Remember that we can equip a weapon at the same time an armor is equipped and vice versa.
 
 Hunger And Eating:
+
 Remember to pick up food and eat it.
 Food is represented by %.
 Also remember that walking, digging walls, fighting enemies, etc. Consumes energy.
 You can see how close it is to dying by the food messages that appear in the Lower Right of the screen.
 
 Hunger States:
+
 “Stuffed” – This is the best possible state of energy. That is, even if you eat more it does not add any energy.
+
 “Full” – State saying it is close to Stuffed.
+
 “Hungry” – State saying that you are running out of energy quickly.
+
 “Starving” – State saying that you are about to starve to death.
+
 Remember that you can eat enemy bodies.
 
 Drop Equipment:
+
 If you have equipment that is useless. The player can drop the equipment by pressing the D Key.
 A menu will appear that will have all your equipment and simply press the key corresponding to the equipment you want to drop.
 
 Pass Levels (or Floors):
+
 To pass the level (or floors), go to one of these Signs >, < and press the key corresponding to the Sign.
 Remember that > to go down one floor and < to go up one floor.
 
 Examine an Item:
+
 To examine an item press the X key and a menu will appear with all your equipment.
 Simply press the Key that corresponds to the item to examine it.
 
@@ -166,16 +175,19 @@ Simply press the Key that corresponds to the item to examine it.
 COMBAT, POTIONS, HEALTH POINTS,EXPERIENCE POINTS:
 
 Entering in combat mode:
+
 To enter combat mode simply move the character to the position of the enemy you want to attack.
 The character will automatically attack the enemy.
 
 How to win a combat:
+
 Combat is won by whoever kills the enemy first.
 For example, the player wins the combat if he manages to kill the enemy before the enemy kills the player.
 The damage is randomized to both the player and the enemy (of course randomization has a limit number). This number can be upgraded with weapons or attack level increase.
 Enemies can attack each other, for example a Bat can attack a Goblin.
 
 Potions:
+
 Potions can greatly help the player in combat.
 Potions can be tossed or drunk.
 Remember, potions are represented by “!”.
@@ -186,25 +198,30 @@ To drink a potion press the Q key and a menu will appear, simply press the key t
 To shoot a potion press the T key and a menu will appear, simply press the key that corresponds to the potion you want to shoot. Aim and shoot at the enemy.
 
 Throwing Rocks Or Equipment:
+
 Throwing rocks (remember, rocks are represented by “,”) or equipment is a good way to avoid direct confrontations with enemies.
 To throw a stone or equipment, press the T key and a menu will appear, simply press the key that corresponds to the stone or equipment you want to throw. Aim and shoot at the enemy.
 Remember, that each piece of equipment has its shooting damage, so some equipment is not worth throwing.
 
 Shooting a Bow Arrow: 
+
 To fire a bow arrow, first pick one up.
 Second, equip it.
 Third, press the F key and aim and shoot at the enemy.
 Remember, the F key is only available when the Bow-Arrow is equipped.
 
 Recovering Life:
+
 Health recovers slowly in time. 
 It is possible to recover Health faster if you upgrade the level of recovery.
 
 XP And Levels:
+
 The player can earn XP by killing enemies. Stronger enemies give more XP.
 If the player has enough XP to level up, a menu will appear with several options to upgrade your character. Simply press the key that corresponds to what you want to update.
 
 Upgrades Available:
+
 "Increased hit points" – Increases the character's HP.
 "Increased attack value" – Increases the character's base attack.
 "Increased defense value" – Increases the character's base defense.
@@ -212,21 +229,25 @@ Upgrades Available:
 "Increased hp regeneration" – Increases the character's HP regeneration.
 
 TEXT ADVENTURE:
+
 The text adventure is very simple to understand, you just have to press the key that corresponds to the option you want to use.
 
 GAME MODES AND GAME DIFFICULTIES:
 
 Normal:
+
 The normal game mode has Roguelike and Text Adventure.
 To win the Roguelike you must find the item “Teddy Bear” (represented by *) and leave the basement alive.
 Recommended for new players.
 
 Survival:
+
 Survival game mode only has Roguelike.
 How long can you survive?
 Recommended for experienced players.
 
 DIFFICULTIES IN SURVIVAL MODE
+
 Normal Mode: How Survival Mode should be played
 God Mode: If life was a problem, now it's not... (gives player 10,000 health)
 
@@ -235,12 +256,14 @@ ENEMIES, ITEMS, POTIONS TABLES:
 TYPES IN INTELLIGENCE OF ENEMIES:
 
 WANDERERS
+
 Wanderers are enemies that choose a random direction to go.
 These enemies are:
 -Bat
 -Spider
 
 HUNTERS
+
 Hunters are enemies that pursue the player.
 These enemies are:
 -Zombie
@@ -248,6 +271,7 @@ These enemies are:
 -Anomaly
 
 INTELLIGENT
+
 Intelligent are the smartest enemies in the game. They can use armor and items.
 These enemies are:
 -Goblin
@@ -256,147 +280,226 @@ These enemies are:
 TABLE OF ENEMIES:
 
 Fungus(f):
+
 HP: 10
+
 Max Attack: 0
+
 Max XP: 10
+
 Type Of Intelligence: No Intelligence (They Replicate In The Map)
+
 Can Drop Items?: Yes- His Body
 
 Bat(b):
+
 HP: 15
+
 Max Attack: 1
+
 Max XP: 17
+
 Type Of Intelligence: Wanderer
+
 Can Drop Items?: Yes- His Body
 
 Spider(x):
+
 HP: 10
+
 Max Attack: 2
+
 Max XP: 17
+
 Type Of Intelligence: Wanderer
+
 Can Drop Items?: Yes- His Body
 
 Zombie(z):
+
 HP:50
+
 Max Attack: 10
+
 Max XP: 70
+
 Type Of Intelligence: Hunter
+
 Can Drop Items?: Yes- His Body
 
 Vampire(v):
+
 HP:60
+
 Max Attack: 20
+
 Max XP: 90
+
 Type Of Intelligence: Hunter
+
 Can Drop Items?: Yes- His Body
 
 Anomaly(@):
+
 HP: 50
+
 Max Attack: 50
+
 Max XP: 90
+
 Type Of Intelligence: Hunter
+
 Can Drop Items?: Yes- His Body
 
 Goblin(g):
+
 HP: 66
+
 Max Attack: Depends on what equipment the Goblin has
+
 Max XP: 90
+
 Type Of Intelligence: Intelligent
+
 Can Drop Items?: Yes- His Body and the items that the enemy had
 
 SkinCrawler(S):
+
 HP: 75
+
 Max Attack: Depends on what equipment the SkinCrawler has
+
 Max XP: 120
+
 Type Of Intelligence: Intelligent
+
 Can Drop Items?: Yes- His Body and the items that the enemy had
 
 TABLE OF WEAPONS:
 
 Dagger:
+
 Damage: 5
+
 Damage When Throwing: 5
 
 Sword:
+
 Damage: 10
+
 Damage When Throwing: 3
 
 Staff:
+
 Attack: 5
+
 Attack When Throwing: 3
 
 Bow:
+
 Damage: 1
+
 Damage When Throwing: 0
+
 Damage When Firing: 5
 
 Baguette:
+
 Damage: 3
+
 Damage When Throwing: 0
+
 Note: This is also a food item. Restores 100 energy.
 
 FOOD TABLE:
 
+
 Apple:
+
 Energy: 100
 
 Baguette:
+
 Energy: 100
 
 Bread:
+
 Energy: 400
 
 Bat Corpse:
+
 Energy: 75
 
 Spider Corpse:
+
 Energy: 50
 
 Fungus Corpse:
+
 Energy: 50
 
 Zombie Corpse:
+
 Energy: 250
 
 Vampire Corpse:
+
 Energy: 300
 
 Goblin Corpse:
+
 Energy: 330
 
 SkinCrawler Corpse:
+
 Energy: 375
+
 
 POSSIBLE POTION COLORS:
 
 -Red
+
 -Yellow
+
 -Green
+
 -Cyan
+
 -Blue
+
 -Magenta
+
 -Black
+
 -Gray
+
 -White
+
 
 POTION EFFECTS TABLE:
 
 Potion Of Health:
+
 Heal 15 HP
 
 Potion Of Slow Health:
+
 Slow HP Cure
 
 Potion Of Poison:
+
 Slowly removes HP points from the player or the enemy
 
 Potion Of Warrior:
+
 Turns the one who takes it stronger
 
 Potion Of Archer:
+
 Increases the player's field of vision for a limited time
 
 Potion Of Experience:
+
 Gives the player some XP
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -405,7 +508,7 @@ TIPS AND TRICKS:
 1. To avoid direct confrontation with enemies use potions and stones
 2. Always update your equipment
 3. Use digging the smart way (to escape enemies and such)
-4. Don't focus too much on combat
+4. Don't focus too much on combat 
 5. Pay attention to food
 6. Survive…
 
@@ -415,12 +518,15 @@ TROUBLESHOOTING:
 WHEN I TRY TO START THE GAME A WINDOW APPEARS SAYING: “ERROR: A JNI ERROR HAS OCCURRED, PLEASE CHECK YOUR INSTALLATION AND TRY AGAIN”
 
 CAUSES
+
 Dependencies are not installed or are poorly installed.
 
 IF YOU DON'T HAVE DEPENDENCIES INSTALLED
+
 Install Dependencies.
 
 IF YOU HAVE DEPENDENCIES INSTALLED AND YOU CONTINUE TO HAVE THIS ERROR
+
 Uninstall and try to reinstall Dependencies again.
 
 If the issue continues, it could be a problem with the installers. Download new ones.
@@ -430,18 +536,27 @@ If the problem continues, make sure your computer is compatible.
 THE GAME LOCKS/CRASHES WHILE IT IS RUNNING
 
 CAUSES
+
 There are various causes, lack of RAM, something happened in the game process, etc.
 The most common cause is the lack of RAM in the Virtual Computer that Java creates.
 
 HOW TO SOLVE
+
 As long as the cause cannot be debugged, the user can try to resolve it.
 This is a list of what the user can do:
+
 -Restart the game
+
 -Close all Java processes on your computer
+
 -Close programs that may be consuming RAM
+
 -Restart the computer
+
 -Reinstall Dependencies
+
 -Update Dependencies
+
 -Make sure your computer meets the Minimum Requirements
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -454,6 +569,7 @@ The Website serves to expand the lore of the game. The Website is protected by a
 The Website uses HTML, CSS and PHP.
 
 The Username is: carter
+
 And the Password is: pumpkin
 
  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -471,7 +587,9 @@ ALGORITHMS:
 Anomaly uses mainly three algorithms:
 
 - Cellular Automata
+
 - A* (A-Star)
+
 - Bresehans Line
 
 Cellular Automata:
