@@ -27,7 +27,7 @@ public class Communications1ComeBack implements Screen {
 		case KeyEvent.VK_W:
 			return key.getKeyCode() == KeyEvent.VK_W ? new Note1() : this;
 		}
-		return key.getKeyCode() == KeyEvent.VK_E ? new Cafeteria1ComeBack() : this;
+		return key.getKeyCode() == KeyEvent.VK_E ? new Cafeteria13ComeBack() : this;
 	}
 
 }
